@@ -1,5 +1,5 @@
 # hospital-scheduler
-A Java scheduling system to manage healthcare professionals' diaries with a console menu and swing GUI
+A Java scheduling system to manage healthcare professionals' diaries with a console menu and Swing GUI
 
 ## Features
 - Add, edit and delete health professionals
